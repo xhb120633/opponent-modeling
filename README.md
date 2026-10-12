@@ -3,9 +3,21 @@
 **Beyond Successful Play: Diagnosing Opponent Modeling in Large Language Models**  
 Hanbo Xie, Yue Zhao and Robert C. Wilson
 
+Public repository: https://github.com/xhb120633/opponent-modeling
+
 Code and data for the preprint on recursive opponent modeling in strategic interaction. This repository follows the paper's sequence: live behavior, prediction and belief diagnostics, supervised learning, then reinforcement-learning interventions. It includes original model outputs, numerical figure inputs, experiment entrypoints and 18 evaluated SFT/RL LoRA adapters. It does not include base-model weights or proprietary API access.
 
 ## Choose your starting point
+
+You do not need to download the adapters for offline result inspection. To start with code/data only:
+
+```sh
+git clone --filter=blob:none --sparse https://github.com/xhb120633/opponent-modeling.git
+cd opponent-modeling
+git sparse-checkout set code data raw evidence results figures
+```
+
+Add adapters later with `git sparse-checkout add models`, or select individual adapter directories. Base-model weights are separate.
 
 1. **Read the results:** start with `figures/` and `data/` alongside the preprint. Figures S1/S2 include the completed six-opponent reasoning comparison and seven-size Qwen2.5 structured-output comparison.
 2. **Check files:** run `python verify_artifact.py`. It checks the released hashes and Python syntax without model calls.
