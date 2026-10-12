@@ -1,0 +1,73 @@
+{
+  "status": "audited",
+  "audit_passed": true,
+  "job": "13441243_0",
+  "physical_job": "13454399",
+  "cell": "openai/gpt-oss-20b hider vs ToM2 low reasoning baseline",
+  "n_matches": 20,
+  "n_rows": 1000,
+  "unique_match_round_keys": 1000,
+  "prompt_exact": 1000,
+  "feedback_checked": 1000,
+  "parse_checked": 1000,
+  "strict": 997,
+  "fallback_random": 3,
+  "fallback_rows": [
+    [
+      4,
+      46,
+      1
+    ],
+    [
+      14,
+      48,
+      1
+    ],
+    [
+      14,
+      49,
+      0
+    ]
+  ],
+  "mean_final_payoff": -1.6,
+  "ci95_match_bootstrap": [
+    -4.3,
+    1.2
+  ],
+  "match_scores": [
+    -4,
+    2,
+    -2,
+    -4,
+    0,
+    0,
+    -4,
+    -6,
+    10,
+    4,
+    10,
+    0,
+    -10,
+    -12,
+    -10,
+    -10,
+    4,
+    -2,
+    6,
+    -4
+  ],
+  "model_revision_runtime_reported": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "csv_sha256": "9423b86abac9a40a3d14bb0bb0c6bd3c2a0c98e971adfccdf5b8d78345a2a3eb",
+  "source_sha256": {
+    "run_llm_vs_agent_vllm.py": "11a78375f53da0fdb7c1e89eee2b489257739582f4e54832b27149f1fb9e8293",
+    "llm_tomsup_agent_vllm.py": "6420a8b111fd9ec690480cdd1bcbdb17d970d36f9a46c0e70fe4b17f1b55107c",
+    "model_output_parse.py": "ca340c1790a080d65ccbb276a6a3735552814744ccb45aeea1f6cfc691d25054",
+    "vllm_batcher.py": "6ed6e8d95b8807bff9ea4736ac75255df389f1fc39c0c68f7988860f4a51dea1"
+  },
+  "limitations": [
+    "Three truncated completions used the frozen random fallback; no rows excluded.",
+    "Generation finish reasons and exact token counts were not exported in the CSV.",
+    "The cached model revision is runtime-reported; model tensors were not independently hashed.",
+    "Final-round agent-local feedback is blank by design; authoritative game payoff is present."
+  ]
+}

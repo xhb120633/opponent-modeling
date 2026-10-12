@@ -1,0 +1,15 @@
+# Observed Python 3.10 environment; reference only, not a validated lockfile.
+# TRL was 1.3.0.dev0; its exact development commit is not recovered.
+# GPU/CUDA/platform compatibility must be resolved separately.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.9
+tomsup==1.4.1
+torch==2.10.0
+transformers==5.5.3
+vllm==0.19.0
+accelerate==1.8.1
+datasets==4.8.4
+peft==0.18.1
+openai==2.24.0

@@ -1,0 +1,295 @@
+{
+  "key": "original_reasoning_9",
+  "cell": {
+    "model": "google/gemma-4-31B-it",
+    "mode": "baseline",
+    "thinking": true,
+    "effort": "low",
+    "role": "hider",
+    "opponent": "ToM0",
+    "max_tokens": 8192,
+    "max_model_len": 16384,
+    "reasoning": true,
+    "interface_gate": true,
+    "tp": 4,
+    "group": "reasoning",
+    "task_id": 9
+  },
+  "root": "/RESEARCH_ROOT/LLM_towards_ToM/Hide_and_Seek/LLM_vs_Agents_vllm/experiments/gemma_thinking_full_retry_20260924/results/reasoning/9",
+  "audit_script_sha256": "37770357c79c246714e4ca120b504aa38f11468d61e0619ea365fe817aa22c7e",
+  "n_rows": 1000,
+  "n_matches": 20,
+  "past_only_prompts_exact": 1000,
+  "checkpoint_rows_reconciled": 1000,
+  "parser_checked": 1000,
+  "predicted_fields_provenance_checked": 1000,
+  "parse_modes": {
+    "strict": 983,
+    "fallback": 17
+  },
+  "fallback_rows": [
+    [
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      40,
+      0
+    ],
+    [
+      0,
+      48,
+      0
+    ],
+    [
+      1,
+      36,
+      1
+    ],
+    [
+      3,
+      16,
+      1
+    ],
+    [
+      4,
+      9,
+      0
+    ],
+    [
+      4,
+      28,
+      0
+    ],
+    [
+      7,
+      41,
+      1
+    ],
+    [
+      7,
+      44,
+      1
+    ],
+    [
+      7,
+      46,
+      0
+    ],
+    [
+      8,
+      6,
+      1
+    ],
+    [
+      8,
+      21,
+      0
+    ],
+    [
+      10,
+      30,
+      0
+    ],
+    [
+      10,
+      46,
+      0
+    ],
+    [
+      11,
+      38,
+      0
+    ],
+    [
+      13,
+      48,
+      0
+    ],
+    [
+      17,
+      47,
+      1
+    ]
+  ],
+  "valid_structured_objects": 0,
+  "match_scores": [
+    2,
+    -2,
+    12,
+    16,
+    8,
+    -10,
+    -2,
+    12,
+    -8,
+    2,
+    12,
+    6,
+    6,
+    6,
+    6,
+    2,
+    10,
+    8,
+    2,
+    16
+  ],
+  "mean_final_payoff": 5.2,
+  "ci95_match_bootstrap": [
+    2.0,
+    8.2
+  ],
+  "mean_correct_action_fraction": 0.552,
+  "csv_sha256": "4eec46dc90f841788f673bb125acd506da7a43dbcdeba8020653994dbf2ea27c",
+  "checkpoint_sha256": {
+    "0": "98c07ed39d4c511d7e40edf9005854b869952e350e5ec163e1ee6567e39771df",
+    "1": "09aae8c659f8640d53ded19b6267b655d87864e3c6f09da284df62b649f318b9",
+    "2": "789a575d626f3b2dc4bc976f7f735cf80d7ddfce4982dc2ed7e3e58ac51b70f6",
+    "3": "967e5849ed896a7790f97705f965043691e03eae33e0d8a5143952efbd3ce589",
+    "4": "620b3a651571b4a808fc7dc7fb4e701827ddb14d8490cfb772975957766cd4a5",
+    "5": "f36de6be0413758711a22bb679c7be0f0c156fd70109e74e1c4ce03d1c470dc3",
+    "6": "056e08b18195226cd39794410aa4b67fa5f6395c4d10c7c5eeaf0d3d82cc49e5",
+    "7": "f7dd0e94b47153c08a2d005eb0ca32df9ed05d117d7c271b51ce20394fda8648",
+    "8": "253c5ba0e76fb1a5c293937384bc2e2ff0ba744089bad0b18c3e859c8ee45556",
+    "9": "09dd970a53288f0b3989c9ee6a1e50e4469617594e747e273884d4d8aa7136b4",
+    "10": "a547a86bb921c588981d8c41e8d6d9fb404540a7ec6ee3922621c5765ca9ae3e",
+    "11": "f5543f275d4b6978c01f16e62cd7ab788abdb25c0d19edbfb51fb1f9ba90031b",
+    "12": "8284320c0dc9385df2e546b14c5c9070bada4a9ce2bd524e4d5b34dd897eb502",
+    "13": "6a03cf4c080035dc883b3eb0acfe5ffc59f6ba041b60d9fec84ec076b531adb2",
+    "14": "248ae35fa8567d5ad8393187ebf6c3a299a244fed8210d5bc8f8325da47ead23",
+    "15": "fa9d49020774e425f3583569429408a8d13b3ed2d77de56930524f7f7fa6d0ba",
+    "16": "32c7e33af12dec3bbbd9922d00a0f149972b4d9e22b83f6a75f34cd0f8d1a931",
+    "17": "7841f512a66050bedf49b1fa2628617e42c118239fe709fdfebeb4a61d15e43a",
+    "18": "d414088fc25db186ce9fb355b8a644a4d1b0090d2fed083d9d9f040a05409bdd",
+    "19": "fe8ae5f36676986594bc4b9239381b2cc58c0abde0097ff8ef003638f727908d"
+  },
+  "provenance": {
+    "original_configuration_sha256": "58678c3057770f377862dedc90e60a1fa0aaa364d6813381fcc6e30704c4d336",
+    "provenance_sha256": "1d7e0cfa7ac61a8e76b236bf1bd14de63ba57888db59a9b47cddcad98c1a976a",
+    "inherited_repeats_verified": [],
+    "gate_report_sha256": "fcc22b0767a3b739f86273acdc5bbac6ac686b7d502d10584e0a43da5d739bec",
+    "job": "13603373",
+    "model_revision": "3548789868c5356dbf307c98e6f609007b82b3eb",
+    "runtime_log_sha256": "dc2cdcb78d348bc9ad385d9c4ed80eacce11d3dda401a188fd330255be09dbff",
+    "runtime_source_sha256": {
+      "aggregate_online_teacher_sources.py": "f0cd317e394ffec202b7822fbe828bd6850e0eca17d8c2455fb6c7f61278bf33",
+      "analyze_dynamic_belief_assay.py": "21c8fbd31277e8a3c75096781123b871715cdcc6f4467c56cafefe43b82adf88",
+      "analyze_dynamic_belief_goal_gate.py": "e55cc1ae630cc14a12eea161ecac318d378a02e902335933f58d741750d6c78c",
+      "analyze_dynamic_belief_history_ablation.py": "92ece9fe27d73e3ebdb6df35063ddf4db2f3c1b29250a9cf41abfcc445689e6e",
+      "analyze_interventional_source_coverage.py": "ece64453fc35ac08e14c5ef2e3584ce25497e20d79d74c4ca320b8f4863864f8",
+      "analyze_iteronline_progression.py": "9b0a95dff0892f787fdb05c3afaa51ac6515c66f6f789cad0fbb5d4494c4ab4d",
+      "analyze_model_oracle_alignment.py": "88c005cdc7088535f048b95189757aac439e768784fcd01bcbd68c6cd48bf3ec",
+      "analyze_online_refresh_pilot.py": "09392bb9cd187eb44f0e7c0e3f8b81fb593de166f645b1a7aff08b90abf9049b",
+      "analyze_online_refresh_powered.py": "05e61e505884515d192ba2b2399e8384b95a778cb4c0d1c68989598c7df434ff",
+      "analyze_probability_grpo_eval.py": "923732de4d107f56b9ecb64c0e6bb92e1b3f9ffe54b28213360c418497bfef0f",
+      "analyze_probability_grpo_progression.py": "1a720bab29d5a10bc20f36773692cfbb301dcdbff0a10d9e860fd696d25ccab0",
+      "analyze_probability_reward_traces.py": "204442516fc34e9569e5fadbaa361558e2b3eb674fe579af19e2c6c072abe439",
+      "analyze_reparsed_recovery.py": "b0dbd616e247aa281888b9851d22c378d9bbeb47b44274735427ca4b347071e9",
+      "analyze_transition_state_identifiability.py": "e86d3905b5e75ecd78e83d386532979c99296fab6dc039250e9264cdff723a07",
+      "audit_adapter_load.py": "43b665a340bc92bf2f20e989e911e29e0753ba81a055a485febf27e1540c69fd",
+      "audit_dynamic_belief_dataset.py": "7cf7aa76bba08975da5a1618352c133052a1bd058785d07515b1b5e204d0d916",
+      "audit_dynamic_belief_evaluation_run.py": "5976169d46a20704720514c3ac9ade1c21dbe4f8b2d0dba6ff6f5776a67f37fc",
+      "audit_dynamic_belief_loop.py": "f36fc3a6f2403732b18c4d8e00b6c2e1f23ccac53d73f2bb6693592413ff7efa",
+      "audit_dynamic_belief_training_run.py": "801a275a940ab2da8209934e1b236ed34ad32251186a5aa86497f84a55f9194d",
+      "audit_iclr_closure_historical_attempts.py": "0db05d2466cbc3989ec4e9458fb503d37bcbc20112c1fef6a2ee421ade963bc9",
+      "audit_predictive_state_identifiability.py": "bd2c390d86cdb32c9b1b7daf5d90aff5f6620998b5bc5e52e09d11dc2dc16018",
+      "azure_chat_generator.py": "dba259d05dc809cac65a757e2e5bc2a6cc22632b62c7bc1807f42f721e91264a",
+      "belief_transition_prompt.py": "248a7f968319ac6c8c747c1f5cc9d70edc873d3d3325b4e53b043d246828f3f6",
+      "build_belief_transition_sft_dataset.py": "df92300c08331c5fb72a5216e09b61491e31e1c43086849e12120da3ee7befe8",
+      "build_full_history_model_prior_fixed.py": "6cea38fb7a3ca315a0e9a219acf3fdec1c17b30906d1ffdebfd77655407ffa42",
+      "build_full_history_transition_sft.py": "6674fbbdfa7858bd960dd3f5cda43347f29344c66d5a41008dc799fb226121b7",
+      "build_grpo_offline_dataset_locked_v1.py": "8663f2a36917212bdea26ab5e40590b089141c6f27a6e7df2b4679226bdc1704",
+      "build_grpo_online_selfplay_dataset.py": "aad9819b76d097eda9273b591fb1b2ecc0d06947fe98877928c75d7278f11b6a",
+      "build_grpo_probability_dataset.py": "af5eb90e19861be78c75c64731e0a30bc0e6abede7c5cf653a9d18d442135c63",
+      "build_grpo_recursive_probability_dataset.py": "3d9da5f9a6d472ec1269a72a6045feac793f282dbc5bab413cf6640ea3b37814",
+      "build_onpolicy_dynamic_teacher_sft_dataset.py": "3e584caf2e8acbe9697a39baedda2fd412ccd3989aef805aa35420f7d15c7d28",
+      "build_predictive_state_bridge_dataset.py": "6391e784f8fc0ab9e612de2d3e00c7fc1f4a9207edc04519cb3663bcdf87d60d",
+      "build_realized_action_sft_dataset.py": "d996da3ba7b4ae40cad7c4d512316b922ceeef517c025d43b9bd01d10a1002c0",
+      "build_sft_dataset_locked_v1.py": "6c8987b8ada866f766126d474bf3753c9b07341fa058d2e85b8a930a5bd1af54",
+      "build_sft_match_timeline_locked_v1.py": "c66bf505ba9f21cc4102023c454c9494b96fa581a9c04752ee9937549e815962",
+      "build_soft_probability_sft_dataset.py": "860205311412b17a31f6c8fc53e13895928799d5168b9ea7a247a8f75f2e5484",
+      "build_summary_realized_action_sft_dataset.py": "f051d08a15934e11257f3a49b805d2519d17cd2d87c3f3ac2b2eebf066a97734",
+      "check_vllm_result_quality.py": "347f49cd550b5d3195b539dc0b5a5de2222a28388446587b43395097f4dd74dd",
+      "combine_belief_transition_datasets.py": "c7ff44b61e4349b5db66413bbacb593037fb3fc9fa9967b89f79d82023aec0b0",
+      "compare_dynamic_belief_online_runs.py": "700a9e15cfa8b0f812cba519edee82fcbe3ba857a85ca330f90c41601ed8e5be",
+      "diagnose_online_history_signal.py": "db1cae8a87a970b35566fb294d8e1c5db49836bc8e3c3fef9315cc32fb34c87e",
+      "diagnose_probability_shrink.py": "88702734db35151b534900b8c0b0594d1a9978979c0582520353025bae15f5d0",
+      "diagnose_soft_teacher_temporal.py": "19999a01c10727124bb68fd21cf0567a72d817bb43bfdfb28f9656a66f28a984",
+      "evaluate_belief_transition_fixed_trajectory_vllm.py": "bd3118fb8e49876cc42ed122343420fc2f84a14dbe53b5f01baaee75ab830aeb",
+      "evaluate_belief_transition_perturbation_vllm.py": "dd201be7c56aae7d6ab9f5cd2c678c7be7e4319eaab0c00d1e9ef3bb9f70a39b",
+      "evaluate_belief_transition_teacher_forcing_vllm.py": "debc71bf7a86e149deb87f151142cc6a86673d6353c031d1e89be116a80549a8",
+      "evaluate_d04_fixed_observation.py": "85615df2257a1f3b7f71f7b962b1e3ab9bfe9794e71013a9abcb073b0f8953cf",
+      "evaluate_full_history_online.py": "8693ddc6cc443ee8dac60c288a84430267fe32fbdab566b347e4afa786dde821",
+      "evaluate_observable_action_baselines.py": "4ffa4bff368952bcadd05b181e713d43982f580d142ae5741dc1127c575ad69f",
+      "evaluate_online_summary_intervention_vllm.py": "e6a0a3ec2e08405dcdc3cdd81a19208e8f85a9afeac284ea2f37ebb378578b03",
+      "evaluate_predictive_action_logits_vllm.py": "153ef13cab83b6c7457245782cad93f0334e4b858b2a9d44f2699a581aa65db8",
+      "evaluate_predictive_state_bridge_vllm.py": "8846021fe3f0749ad1ced5aaaf897248f0161854d8d92612257f2c899b99416a",
+      "evaluate_transition_point_repro.py": "72942641331ec6aeddb9ee8a4567620d51cd944aab1382a40189f5d536d1bd2a",
+      "extract_tom_oracle_probabilities.py": "4059a5fbb2fb1d1858842c3abe6ce9668942f8fc246255958ee3e80fc4161260",
+      "generate_interventional_tom_source.py": "5f79e127d9c409d0a6682edb3235676f18173fefa09529301fd893a92ac63ccb",
+      "llm_tomsup_agent_vllm.py": "c7672847ae420f6062a3c9c0f1ca5b9f5a48b03f3f4f6d08960365557a26aee2",
+      "mixed_strategy_agents.py": "b30837c35e2886b7237eba9530d5579d387b266d4d8517dbc94c9a3ef81ab879",
+      "model_output_parse.py": "c9082f54ac16a93a61cde5e0f4c3117978eb71eb74119a96c083bd5bfd6d99ac",
+      "online_binary_belief_agent.py": "22720923df3cb070028ad1b49c87b2d6561df5415177e51bc51dc26d1d15508e",
+      "online_history_summary.py": "4cd537f3e7ffd6575bd4a1efa66f14a094d99251342667f0086784bfc2177373",
+      "openai_chat_generator.py": "ee9b5d22630759cba98f4aa896fb0d313727b0afe266fd7f0989e68cdd4c3f4b",
+      "probability_tom_utils.py": "52d45a14b06e20eb3ff2c8e30eec1d457596e157a52efa2355b0266cd441d0ff",
+      "prompt_templates.py": "bec0f2724ffc36a38975a92559c34341308ed2771145619fe8f332cee63a0835",
+      "qualify_onpolicy_teacher.py": "fedb77e3bd8dbe3e7cb7a4b8a8734d298db29c6ed8f70a26722248ab39ff7d01",
+      "reparse_vllm_csv.py": "2a7d265e19bfb29342c1059ab8278957c7da9898afb2c58dd6b69ed66e004226",
+      "run_agent_round_robin.py": "62387f9c232198101a07f85d311545688d1eb520e82c803e5858134f4443076b",
+      "run_hybrid_lora_vs_azure.py": "49a6a0b1ad73a8e5ae1c9f1b6fe5df0f6d39f50063a3a90fda1fba72e4743d07",
+      "run_llm_vs_agent_azure.py": "46ee6079e09c981fa477b90380d8079c43b814f9290a3816429d1399aea81b91",
+      "run_llm_vs_agent_vllm.py": "13df250f90435594c6dfead54c7d0bde21e8c30e10d3343e7e87bee60f6839cc",
+      "run_lora_vs_lora_vllm.py": "6bcf13d422f438e325bc7985a513fbc01eda53e834c915582a019f7834645e61",
+      "run_one_step_diagnosis_vllm.py": "ba26710c51a8ac6f8136703049cc31c7558a1d92e41fb417f6c116f6553445f9",
+      "run_online_binary_belief_gate.py": "ef6cd5b292bd18813c3e7ae7e08ee64c746948393a38c2212257ae8ad5204b87",
+      "run_online_binary_belief_transfer_gate.py": "38307338bf17eb14b6ad5182c2b01d2f775834281d1c5cace9fdaf25e698659a",
+      "run_online_selfplay_rollout.py": "93c7655a7ab12252ebb1215a24e2fce61a395cc116fb93ea21feb0d09aeb25c8",
+      "run_online_tom_rollout.py": "dc710fc4758e0f1ca503e8202b50146822725d648e88c7aa2ccf6dffafbe3e5a",
+      "run_pass64_support_vllm.py": "1fab39466e8b82586acadb49c30abb906baa0ff5926a9910f069f78e67f2ac9e",
+      "run_recursive_oracle_intervention_vllm.py": "df71eaa8a9456479ee832feeabef69936842f67b6e950fcb9716087be7927132",
+      "run_rps_heldout_vllm.py": "1f237737a493944b5f439ab7263d1e104035921e3f48316272d641169346a014",
+      "score_iclr_closure_baselines.py": "cb17e4c5107f4b0f55d0396c5e23b239667a4fac249fed3c57caef22e7186750",
+      "screen_online_teacher_candidates.py": "0d13311aad14393a98cf3077fb501d09a5687a7953675fbbb9116466c955079e",
+      "stateful_online_binary_belief_agent.py": "92119817d271d5c54230da7f385574cacbfad41dce0074c0cdf1ba9e70c2b465",
+      "summarize_match_performance.py": "6f1dec3e63a8d65515a0e77f49457d6532112d012e5bef4d6059c18abfd9f347",
+      "train_grpo_offline_locked_v1.py": "28826df5104c07770ef2d570441d0b374d2502a9fe62971375b561a1299f5075",
+      "train_sft_locked_v1_trl.py": "ddf8091d9344221d22f537a63eb3a8364afcd89b680e6f5f5c3eee08ad7970bc",
+      "vllm_batcher.py": "79be162257dbd51295b77590fa85b1f83b4e344e92596f5c2db193ab531bb134",
+      "vllm_binary_batcher.py": "26acb9656e21aa8e8a2eeb0541961d3b06ceb4b4545034d7832057dde15582b8"
+    }
+  },
+  "interface_gate_audit": {
+    "n_rows": 10,
+    "n_matches": 5,
+    "past_only_prompts_exact": 10,
+    "checkpoint_rows_reconciled": 0,
+    "parser_checked": 10,
+    "predicted_fields_provenance_checked": 10,
+    "parse_modes": {
+      "strict": 10
+    },
+    "fallback_rows": [],
+    "valid_structured_objects": 0,
+    "match_scores": [
+      2,
+      0,
+      2,
+      2,
+      -2
+    ],
+    "mean_final_payoff": 0.8,
+    "ci95_match_bootstrap": [
+      -0.8,
+      2.0
+    ],
+    "mean_correct_action_fraction": 0.7,
+    "csv_sha256": "884f3968594bdafd5c057117a69efe5f028a29ed65d91f4b445fe3e22d72e0c9",
+    "checkpoint_sha256": {}
+  },
+  "audit_passed": true
+}

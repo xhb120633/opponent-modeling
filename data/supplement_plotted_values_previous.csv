@@ -1,0 +1,289 @@
+figure,role,model,opponent,value,status,source,ci_low,ci_high
+S1,seeker,Qwen2.5-0.5B-Instruct,RB,-18.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-0.5B-Instruct,QL,4.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-0.5B-Instruct,WSLS,-46.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-0.5B-Instruct,ToM0,-44.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-0.5B-Instruct,ToM1,-42.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-0.5B-Instruct,ToM2,-37.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,RB,-6.3,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,QL,2.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,WSLS,-8.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,ToM0,-14.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,ToM1,-6.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-1.5B-Instruct,ToM2,-8.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,RB,-3.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,QL,0.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,WSLS,34.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,ToM0,2.8,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,ToM1,-2.5,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-3B-Instruct,ToM2,-4.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,RB,11.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,QL,0.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,WSLS,19.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,ToM0,3.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,ToM1,-9.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-7B-Instruct,ToM2,-13.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,RB,4.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,QL,3.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,WSLS,7.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,ToM0,4.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,ToM1,-14.3,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-14B-Instruct,ToM2,-12.3,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,RB,3.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,QL,-1.5,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,WSLS,47.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,ToM0,12.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,ToM1,2.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-32B-Instruct,ToM2,-16.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,RB,15.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,QL,3.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,WSLS,15.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM0,3.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM1,-10.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM2,-13.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,RB,15.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,QL,3.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,WSLS,15.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM0,3.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM1,-10.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen2.5-72B-Instruct,ToM2,-13.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),RB,8.5,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),QL,-0.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),WSLS,12.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),ToM0,1.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),ToM1,0.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Qwen3.6-35B-A3B (no-thinking),ToM2,-2.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,RB,10.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,QL,3.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,WSLS,35.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,ToM0,7.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,ToM1,-4.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,Llama-3.3-70B-Instruct,ToM2,-14.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,RB,7.5,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,QL,3.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,WSLS,35.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,ToM0,3.8,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,ToM1,-5.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,gemma-4-31B-it,ToM2,-13.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,seeker,GPT-5.4,RB,17.6,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,seeker,GPT-5.4,QL,-5.3,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,seeker,GPT-5.4,WSLS,0.8,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,seeker,GPT-5.4,ToM0,-0.5,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,seeker,GPT-5.4,ToM1,-8.1,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,seeker,GPT-5.4,ToM2,-6.6,audited_new_control,experiments_point_diagnostic/gpt54_structured_live_20260921/audit.json,,
+S1,hider,Qwen2.5-0.5B-Instruct,RB,16.7,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,14.6,18.8
+S1,hider,Qwen2.5-0.5B-Instruct,QL,3.8,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,0.6,7.0
+S1,hider,Qwen2.5-0.5B-Instruct,WSLS,-47.3,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-48.5,-46.1
+S1,hider,Qwen2.5-0.5B-Instruct,ToM0,-46.4,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-0.5B-Instruct,ToM1,-44.2,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-0.5B-Instruct,ToM2,-38.9,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-1.5B-Instruct,RB,8.9,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,5.9,11.9
+S1,hider,Qwen2.5-1.5B-Instruct,QL,5.7,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,2.7,8.4
+S1,hider,Qwen2.5-1.5B-Instruct,WSLS,-16.4,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-18.4,-14.4
+S1,hider,Qwen2.5-1.5B-Instruct,ToM0,-16.7,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-1.5B-Instruct,ToM1,-5.9,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-1.5B-Instruct,ToM2,-9.3,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-3B-Instruct,RB,-2.5,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-4.4,-0.6
+S1,hider,Qwen2.5-3B-Instruct,QL,0.1,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-2.9,3.0
+S1,hider,Qwen2.5-3B-Instruct,WSLS,39.5,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,38.9,40.1
+S1,hider,Qwen2.5-3B-Instruct,ToM0,5.9,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-3B-Instruct,ToM1,-3.5,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-3B-Instruct,ToM2,-11.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-7B-Instruct,RB,3.7,audited_recovered_archive_cell,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,1.4,6.0
+S1,hider,Qwen2.5-7B-Instruct,QL,-0.2,audited_recovered_archive_cell,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,-3.3,3.0
+S1,hider,Qwen2.5-7B-Instruct,WSLS,19.7,audited_recovered_archive_cell,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,17.9,21.6
+S1,hider,Qwen2.5-7B-Instruct,ToM0,6.7,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-7B-Instruct,ToM1,-10.8,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-7B-Instruct,ToM2,-14.5,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-14B-Instruct,RB,8.0,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,4.4,11.3
+S1,hider,Qwen2.5-14B-Instruct,QL,1.9,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-1.1,5.1
+S1,hider,Qwen2.5-14B-Instruct,WSLS,11.6,audited_new_live_cell,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,10.0,13.2
+S1,hider,Qwen2.5-14B-Instruct,ToM0,5.7,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-14B-Instruct,ToM1,-17.8,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-14B-Instruct,ToM2,-20.2,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-32B-Instruct,RB,1.8,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-0.1,3.7
+S1,hider,Qwen2.5-32B-Instruct,QL,-2.4,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-5.6,0.6
+S1,hider,Qwen2.5-32B-Instruct,WSLS,48.3,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,48.0,48.6
+S1,hider,Qwen2.5-32B-Instruct,ToM0,9.9,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-32B-Instruct,ToM1,1.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-32B-Instruct,ToM2,-17.4,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,RB,-1.1,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-4.2,2.1
+S1,hider,Qwen2.5-72B-Instruct,QL,0.7,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-2.2,3.7
+S1,hider,Qwen2.5-72B-Instruct,WSLS,48.0,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,48.0,48.0
+S1,hider,Qwen2.5-72B-Instruct,ToM0,10.4,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,ToM1,-6.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,ToM2,-16.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,RB,-1.1,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-4.2,2.1
+S1,hider,Qwen2.5-72B-Instruct,QL,0.7,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,-2.2,3.7
+S1,hider,Qwen2.5-72B-Instruct,WSLS,48.0,audited_new_live_cell,experiments_point_diagnostic/standard_first6_20260922/audit.json,48.0,48.0
+S1,hider,Qwen2.5-72B-Instruct,ToM0,10.4,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,ToM1,-6.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen2.5-72B-Instruct,ToM2,-16.1,main_variant,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),RB,-1.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),QL,0.9,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),WSLS,13.3,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),ToM0,3.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),ToM1,-4.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Qwen3.6-35B-A3B (no-thinking),ToM2,-5.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,RB,3.3,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,QL,0.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,WSLS,45.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,ToM0,11.2,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,ToM1,-3.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,Llama-3.3-70B-Instruct,ToM2,-14.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,RB,0.8,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,QL,1.4,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,WSLS,31.7,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,ToM0,12.0,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,ToM1,-6.1,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,gemma-4-31B-it,ToM2,-18.6,main,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,,
+S1,hider,GPT-5.4,RB,1.8,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,hider,GPT-5.4,QL,1.9,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,hider,GPT-5.4,WSLS,39.4,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,hider,GPT-5.4,ToM0,8.3,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,hider,GPT-5.4,ToM1,-7.5,audited_complete_cell,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S1,hider,GPT-5.4,ToM2,-11.8,audited_new_control,experiments_point_diagnostic/gpt54_hider_structured_20260921/audit.json,,
+S2,seeker,Q2.5 3B,RB,-2.5000000000000004,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-8.2,2.9
+S2,seeker,Q2.5 3B,QL,4.7,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,0.30000000000000027,9.1
+S2,seeker,Q2.5 3B,WSLS,-59.099999999999994,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-63.1,-54.800000000000004
+S2,seeker,Q2.5 3B,ToM0,-14.399999999999999,observed,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 3B,ToM1,-1.4,observed,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 3B,ToM2,-3.1999999999999993,observed,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,,
+S2,seeker,Q2.5 32B,RB,-1.1,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,-4.5,2.3999999999999995
+S2,seeker,Q2.5 32B,QL,2.3,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,-1.4000000000000001,6.0
+S2,seeker,Q2.5 32B,WSLS,-26.800000000000004,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,-30.400000000000002,-22.900000000000002
+S2,seeker,Q2.5 32B,ToM0,-7.2,observed,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 32B,ToM1,0.0,observed,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 32B,ToM2,14.799999999999999,observed,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,RB,-4.1,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,-8.9,0.8000000000000007
+S2,seeker,Q2.5 72B,QL,3.0999999999999996,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,-2.0999999999999996,8.4
+S2,seeker,Q2.5 72B,WSLS,-0.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cell11_20260922/audit.json,-3.1999999999999993,2.1999999999999993
+S2,seeker,Q2.5 72B,ToM0,-0.6000000000000001,observed,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,ToM1,10.5,observed,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,ToM2,8.2,observed,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,RB,-4.1,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,-8.9,0.8000000000000007
+S2,seeker,Q2.5 72B,QL,3.0999999999999996,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,-2.0999999999999996,8.4
+S2,seeker,Q2.5 72B,WSLS,-0.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cell11_20260922/audit.json,-3.1999999999999993,2.1999999999999993
+S2,seeker,Q2.5 72B,ToM0,-0.6000000000000001,observed,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,ToM1,10.5,observed,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,,
+S2,seeker,Q2.5 72B,ToM2,8.2,observed,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,,
+S2,seeker,Q3.6 35B,RB,2.1999999999999993,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-2.8024999999999984,7.2
+S2,seeker,Q3.6 35B,QL,0.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-3.7,4.702499999999782
+S2,seeker,Q3.6 35B,WSLS,-3.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-11.302499999999998,4.999999999999998
+S2,seeker,Q3.6 35B,ToM0,-11.7,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-16.5,-6.8
+S2,seeker,Q3.6 35B,ToM1,-0.20000000000000007,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-4.1,3.7
+S2,seeker,Q3.6 35B,ToM2,2.1,audited_new_unpaired_contrast_brief_prompt,experiments_point_diagnostic/qwen36_runtime_result_20260922/audit.json,-1.0,5.3999999999999995
+S2,seeker,Llama3.3 70B,RB,-1.5999999999999996,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-5.9,2.6999999999999993
+S2,seeker,Llama3.3 70B,QL,-3.1,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-7.300000000000001,1.0000000000000002
+S2,seeker,Llama3.3 70B,WSLS,-21.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,-25.500000000000004,-17.49750000000022
+S2,seeker,Llama3.3 70B,ToM0,-1.7000000000000002,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,-5.699999999999999,2.0999999999999996
+S2,seeker,Llama3.3 70B,ToM1,8.7,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,3.6999999999999997,13.6
+S2,seeker,Llama3.3 70B,ToM2,11.9,observed,Hide_and_Seek/Visualization/figures_main_noreasoning_diagnostics/main_noreasoning_tom2_online_structured_summary_compact.csv,,
+S2,seeker,Gemma4 31B,RB,2.4000000000000004,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,-3.5,8.3
+S2,seeker,Gemma4 31B,QL,-0.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,-4.8999999999999995,3.7
+S2,seeker,Gemma4 31B,WSLS,-3.200000000000003,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,-10.299999999999997,4.100000000000001
+S2,seeker,Gemma4 31B,ToM0,2.3,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,-2.1999999999999993,6.699999999999999
+S2,seeker,Gemma4 31B,ToM1,6.5,audited_new_unpaired_contrast,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,2.4000000000000004,10.5
+S2,seeker,Gemma4 31B,ToM2,15.1,observed,Hide_and_Seek/Visualization/figures_main_noreasoning_diagnostics/main_noreasoning_tom2_online_structured_summary_compact.csv,,
+S2,seeker,GPT-5.4,RB,-6.7,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,seeker,GPT-5.4,QL,4.3,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,seeker,GPT-5.4,WSLS,39.4,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,seeker,GPT-5.4,ToM0,5.0,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,seeker,GPT-5.4,ToM1,8.9,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,seeker,GPT-5.4,ToM2,1.7,observed,experiments_point_diagnostic/gpt54_structured_live_20260921/audit.json,,
+S2,hider,Q2.5 3B,RB,11.2,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,7.199999999999999,15.1
+S2,hider,Q2.5 3B,QL,1.5999999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-2.6,5.9
+S2,hider,Q2.5 3B,WSLS,-61.2,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-65.0,-57.6
+S2,hider,Q2.5 3B,ToM0,-22.299999999999997,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-28.7,-16.099999999999998
+S2,hider,Q2.5 3B,ToM1,-11.4,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-20.5,-2.1999999999999993
+S2,hider,Q2.5 3B,ToM2,0.7999999999999989,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,-5.300000000000001,6.999999999999999
+S2,hider,Q2.5 32B,RB,1.4000000000000001,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,-2.8,5.4
+S2,hider,Q2.5 32B,QL,3.2,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,-1.1,7.6
+S2,hider,Q2.5 32B,WSLS,-31.9,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,-34.0,-29.599999999999998
+S2,hider,Q2.5 32B,ToM0,-4.9,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,-9.5,-0.40000000000000036
+S2,hider,Q2.5 32B,ToM1,-14.4,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,-21.4025,-7.1000000000000005
+S2,hider,Q2.5 32B,ToM2,5.099999999999998,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,1.0,9.299999999999999
+S2,hider,Q2.5 72B,RB,6.800000000000001,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,2.4,11.2
+S2,hider,Q2.5 72B,QL,2.3,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,-2.0999999999999996,6.800000000000001
+S2,hider,Q2.5 72B,WSLS,-34.9,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-38.1,-31.9
+S2,hider,Q2.5 72B,ToM0,-10.6,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-14.3,-7.0
+S2,hider,Q2.5 72B,ToM1,7.199999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-0.302499999999998,15.1
+S2,hider,Q2.5 72B,ToM2,14.8,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/fig2c_hider_task0_20260922/audit.json,9.0,20.0
+S2,hider,Q2.5 72B,RB,6.800000000000001,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,2.4,11.2
+S2,hider,Q2.5 72B,QL,2.3,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,-2.0999999999999996,6.800000000000001
+S2,hider,Q2.5 72B,WSLS,-34.9,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-38.1,-31.9
+S2,hider,Q2.5 72B,ToM0,-10.6,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-14.3,-7.0
+S2,hider,Q2.5 72B,ToM1,7.199999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,-0.302499999999998,15.1
+S2,hider,Q2.5 72B,ToM2,14.8,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/fig2c_hider_task0_20260922/audit.json,9.0,20.0
+S2,hider,Q3.6 35B,RB,5.9,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,1.3,10.799999999999999
+S2,hider,Q3.6 35B,QL,0.0,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,-3.3,3.5
+S2,hider,Q3.6 35B,WSLS,10.899999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,6.800000000000001,14.9
+S2,hider,Q3.6 35B,ToM0,2.8,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,-0.9000000000000004,6.5
+S2,hider,Q3.6 35B,ToM1,0.5,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,-4.7,5.7
+S2,hider,Q3.6 35B,ToM2,-1.0,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/fig2c_hider_tasks1_2_20260922/audit.json,-6.8999999999999995,5.202499999999783
+S2,hider,Llama3.3 70B,RB,6.500000000000001,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,1.3999999999999995,11.6
+S2,hider,Llama3.3 70B,QL,2.4,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,-1.3,6.1
+S2,hider,Llama3.3 70B,WSLS,-24.8,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,-25.999999999999996,-23.799999999999997
+S2,hider,Llama3.3 70B,ToM0,-4.699999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,-8.5,-0.9000000000000004
+S2,hider,Llama3.3 70B,ToM1,-0.10000000000000009,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,-8.8,8.6
+S2,hider,Llama3.3 70B,ToM2,10.2,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/fig2c_hider_tasks1_2_20260922/audit.json,4.5,15.799999999999999
+S2,hider,Gemma4 31B,RB,5.3,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,0.8999999999999999,9.7
+S2,hider,Gemma4 31B,QL,-0.3999999999999999,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,-4.7,3.7
+S2,hider,Gemma4 31B,WSLS,12.3,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,2.299999999999997,23.1
+S2,hider,Gemma4 31B,ToM0,-7.0,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,-11.0,-3.1999999999999993
+S2,hider,Gemma4 31B,ToM1,10.6,audited_new_contrast_prompt_caveat,experiments_point_diagnostic/standard_final6_20260922/audit.json,3.5,17.6
+S2,hider,Gemma4 31B,ToM2,12.8,audited_system_payoff_one_fallback_prompt_caveat,experiments_point_diagnostic/fig2c_hider_task3_20260922/audit.json,8.2,17.4
+S2,hider,GPT-5.4,RB,8.7,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,hider,GPT-5.4,QL,3.8,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,hider,GPT-5.4,WSLS,-30.3,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,hider,GPT-5.4,ToM0,-7.9,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,hider,GPT-5.4,ToM1,5.9,observed,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,,
+S2,hider,GPT-5.4,ToM2,9.0,observed,experiments_point_diagnostic/gpt54_hider_structured_20260921/audit.json,,
+S3,seeker,base_action_only,RB,11.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,7.9,15.4
+S3,seeker,base_action_only,QL,-1.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-4.3,2.3
+S3,seeker,base_action_only,WSLS,15.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,13.9,16.8
+S3,seeker,base_action_only,ToM0,1.9,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.4,4.2
+S3,seeker,base_action_only,ToM1,-13.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-17.6,-9.9
+S3,seeker,base_action_only,ToM2,-13.5,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-17.2,-10.1
+S3,seeker,action_s2400,RB,2.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.5,6.2
+S3,seeker,action_s2400,QL,-1.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-5.0,2.2
+S3,seeker,action_s2400,WSLS,45.1,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,42.3,47.3
+S3,seeker,action_s2400,ToM0,5.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,3.2,7.6
+S3,seeker,action_s2400,ToM1,2.9,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.5,6.2
+S3,seeker,action_s2400,ToM2,2.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.3,5.1
+S3,hider,base_action_only,RB,0.2,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-2.5,3.2
+S3,hider,base_action_only,QL,-2.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-5.8,0.6
+S3,hider,base_action_only,WSLS,25.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,23.5,27.5
+S3,hider,base_action_only,ToM0,5.8,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,3.0,8.6
+S3,hider,base_action_only,ToM1,-7.8,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-13.4,-2.2975000000000363
+S3,hider,base_action_only,ToM2,-14.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-17.3,-11.2
+S3,hider,action_s2400,RB,2.1,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-1.9,5.9
+S3,hider,action_s2400,QL,2.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.8,4.7
+S3,hider,action_s2400,WSLS,46.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,44.5,48.1
+S3,hider,action_s2400,ToM0,0.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-4.602499999999999,4.6
+S3,hider,action_s2400,ToM1,2.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.4,5.2
+S3,hider,action_s2400,ToM2,-1.2,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-3.8,1.3
+S3,seeker,base_structured,RB,11.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,8.4,15.2
+S3,seeker,base_structured,QL,-4.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-7.6,-1.3
+S3,seeker,base_structured,WSLS,10.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,2.0,18.1
+S3,seeker,base_structured,ToM0,-3.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-7.8,1.5
+S3,seeker,base_structured,ToM1,-7.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-13.0,-2.1
+S3,seeker,base_structured,ToM2,-10.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-15.5,-5.1
+S3,seeker,structured_s0300,RB,14.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,10.5,18.7
+S3,seeker,structured_s0300,QL,4.9,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,1.6,8.2
+S3,seeker,structured_s0300,WSLS,44.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,38.6,47.7
+S3,seeker,structured_s0300,ToM0,-0.1,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-3.1,3.2
+S3,seeker,structured_s0300,ToM1,-0.8,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-3.6,1.7
+S3,seeker,structured_s0300,ToM2,0.8,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-2.1,3.5
+S3,hider,base_structured,RB,4.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,0.6,8.6
+S3,hider,base_structured,QL,0.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-3.602499999999999,3.4
+S3,hider,base_structured,WSLS,-9.6,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-10.7,-8.4
+S3,hider,base_structured,ToM0,0.9,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-1.3,3.1
+S3,hider,base_structured,ToM1,-12.3,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-16.002499999999998,-8.7
+S3,hider,base_structured,ToM2,-13.4,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-17.3,-9.7
+S3,hider,structured_s0300,RB,4.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,0.6,7.5
+S3,hider,structured_s0300,QL,2.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.3,5.7
+S3,hider,structured_s0300,WSLS,19.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,12.297500000000001,27.1
+S3,hider,structured_s0300,ToM0,-1.7,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-4.1,0.7
+S3,hider,structured_s0300,ToM1,3.2,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-0.1,6.6
+S3,hider,structured_s0300,ToM2,-1.0,observed,Hide_and_Seek/Visualization/figures_sft_endpoint_formal_20260628/endpoint_online_condition_summary.csv,-4.3,2.4

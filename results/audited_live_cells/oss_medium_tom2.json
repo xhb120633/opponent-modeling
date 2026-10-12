@@ -1,0 +1,89 @@
+{
+  "status": "audited",
+  "audit_passed": true,
+  "original_job": "13441243_1",
+  "continuation_job": "13516077",
+  "cell": "openai/gpt-oss-20b hider vs ToM2 medium reasoning baseline",
+  "n_matches": 20,
+  "n_rows": 1000,
+  "unique_match_round_keys": 1000,
+  "original_checkpoints_preserved": 6,
+  "new_complete_matches": 14,
+  "merged_checkpoints_semantically_equal": 20,
+  "final_text_numeric_reserialization_rows": 47,
+  "prompt_exact": 1000,
+  "feedback_checked": 1000,
+  "parse_checked": 1000,
+  "strict": 996,
+  "fallback_random": 4,
+  "fallback_rows": [
+    [
+      5,
+      24,
+      0
+    ],
+    [
+      5,
+      47,
+      0
+    ],
+    [
+      5,
+      49,
+      1
+    ],
+    [
+      10,
+      37,
+      0
+    ]
+  ],
+  "mean_correct_action_fraction": 0.47,
+  "ci95_correct_action_fraction": [
+    0.446,
+    0.495
+  ],
+  "mean_final_payoff": -3.0,
+  "ci95_match_bootstrap_payoff": [
+    -5.4,
+    -0.5
+  ],
+  "match_scores": [
+    -4,
+    4,
+    -4,
+    6,
+    -2,
+    -6,
+    -6,
+    0,
+    0,
+    -2,
+    -6,
+    6,
+    -8,
+    -8,
+    -6,
+    8,
+    -6,
+    -12,
+    -2,
+    -12
+  ],
+  "model_revision_runtime_reported": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "csv_sha256": "cee7cfe22f9ab7b86346e995ef13f9c60af070231878eeead5ac2d0b43972a0c",
+  "deployment_manifest_sha256": "9554737be2d54619c6a794085e66969923edac36b99ae0479272a52f823e8aed",
+  "source_sha256": {
+    "run_llm_vs_agent_vllm.py": "11a78375f53da0fdb7c1e89eee2b489257739582f4e54832b27149f1fb9e8293",
+    "llm_tomsup_agent_vllm.py": "6420a8b111fd9ec690480cdd1bcbdb17d970d36f9a46c0e70fe4b17f1b55107c",
+    "model_output_parse.py": "ca340c1790a080d65ccbb276a6a3735552814744ccb45aeea1f6cfc691d25054",
+    "vllm_batcher.py": "6ed6e8d95b8807bff9ea4736ac75255df389f1fc39c0c68f7988860f4a51dea1"
+  },
+  "limitations": [
+    "Unparseable completions used the frozen random fallback; no rows excluded.",
+    "Generation finish reasons and exact token counts were not exported in the CSV.",
+    "Model revision is runtime-reported; model tensors were not independently hashed.",
+    "Final-round agent-local feedback is blank by design; authoritative payoff is present.",
+    "The merged CSV reserialized some copied original 0/1 final-text fields as 0.0/1.0; raw replies and original checkpoint hashes are preserved."
+  ]
+}

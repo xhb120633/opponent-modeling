@@ -1,0 +1,107 @@
+{
+  "status": "audited",
+  "audit_passed": true,
+  "job": "13441243_2",
+  "cell": "openai/gpt-oss-20b hider vs ToM2 high reasoning baseline",
+  "n_matches": 20,
+  "n_rows": 1000,
+  "unique_match_round_keys": 1000,
+  "prompt_exact": 1000,
+  "feedback_checked": 1000,
+  "parse_checked": 1000,
+  "strict": 990,
+  "fallback_random": 10,
+  "fallback_rows": [
+    [
+      7,
+      48,
+      1
+    ],
+    [
+      9,
+      45,
+      0
+    ],
+    [
+      10,
+      45,
+      1
+    ],
+    [
+      12,
+      30,
+      0
+    ],
+    [
+      12,
+      49,
+      0
+    ],
+    [
+      15,
+      47,
+      0
+    ],
+    [
+      16,
+      43,
+      0
+    ],
+    [
+      16,
+      46,
+      1
+    ],
+    [
+      17,
+      43,
+      0
+    ],
+    [
+      19,
+      47,
+      1
+    ]
+  ],
+  "mean_final_payoff": -2.3,
+  "ci95_match_bootstrap": [
+    -5.8,
+    1.6
+  ],
+  "match_scores": [
+    -6,
+    -6,
+    -2,
+    -16,
+    2,
+    -8,
+    -2,
+    6,
+    -2,
+    -4,
+    -12,
+    -12,
+    14,
+    2,
+    -6,
+    4,
+    20,
+    -10,
+    -4,
+    -4
+  ],
+  "model_revision_runtime_reported": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "csv_sha256": "145b740f68bf87b0c302d05cb69ae06bd3bd4afe6c3dd7a9cc9881b8e68b2662",
+  "source_sha256": {
+    "run_llm_vs_agent_vllm.py": "11a78375f53da0fdb7c1e89eee2b489257739582f4e54832b27149f1fb9e8293",
+    "llm_tomsup_agent_vllm.py": "6420a8b111fd9ec690480cdd1bcbdb17d970d36f9a46c0e70fe4b17f1b55107c",
+    "model_output_parse.py": "ca340c1790a080d65ccbb276a6a3735552814744ccb45aeea1f6cfc691d25054",
+    "vllm_batcher.py": "6ed6e8d95b8807bff9ea4736ac75255df389f1fc39c0c68f7988860f4a51dea1"
+  },
+  "limitations": [
+    "Any unparseable completions used the frozen random fallback; no rows excluded.",
+    "Generation finish reasons and exact token counts were not exported in the CSV.",
+    "The cached model revision is runtime-reported; model tensors were not independently hashed.",
+    "Final-round agent-local feedback is blank by design; authoritative game payoff is present."
+  ]
+}

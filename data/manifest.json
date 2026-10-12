@@ -1,0 +1,14 @@
+{
+  "source": "outputs/iclr_draft_20260922/archive/20260924_pre_supplement_figures/rl_appendix.tex",
+  "source_sha256": "AD05772BFCEC95722B9F83EFBA4EDF59739A13095EE382E61DFB90934DC77206",
+  "transcription": "All numeric cells copied from the archived pre-conversion RL tables; no new estimates.",
+  "figures": {
+    "figS4_rl_offline_20260925.pdf": "cea9edb55c4f433c5bcb7cb78241ccfd1d7b2dc1f8cb9fdd196b135e918e36bd",
+    "figS5_rl_iterative_20260925.pdf": "e21646c149203e21812961828d40a1b2667f06a687f9547f6b357a2c114d456a",
+    "figS6_rl_prefix_20260925.pdf": "3c7293cffe720d32800136007bcc1ef7ce01179cb88fa1d3701d28709a3b41bf"
+  },
+  "offline_cells": 60,
+  "online_cells": 8,
+  "prefix_cells": 16,
+  "main_figure_style": "outputs/iclr_main_figures_20260924/paper_style.py"
+}

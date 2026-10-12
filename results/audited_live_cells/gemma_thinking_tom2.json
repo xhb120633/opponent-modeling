@@ -1,0 +1,236 @@
+{
+  "status": "audited",
+  "audit_passed": true,
+  "job": "13518725",
+  "cell": "google/gemma-4-31B-it thinking hider vs ToM2 baseline",
+  "n_matches": 20,
+  "n_rows": 1000,
+  "unique_match_round_keys": 1000,
+  "merged_checkpoints_exact": 20,
+  "checkpoint_sha256": {
+    "0": "5b4c8f10744f1c0c7a6200bf22bf4aa19a33fe99696590443562f14d9eee4e05",
+    "1": "8373f7280c8a3b06bcde72be732b675d080857a3f46a01013ff4cf13bc760930",
+    "2": "ac2e2542cc1b05059b8b88e569d61c5849dfe540442abb07d392ee1e4571880f",
+    "3": "0d2cbfa5e98e50e751e3f58971d5455cb716c62e26c79e2a88c8871794da77ba",
+    "4": "79e8e919b244a66568924bbace59300e7d84036b64a3639547fd980f283ec49d",
+    "5": "4064cbc13cee930d90ef8ca9062198d46b3d5fe2487048d2cb95c34937f5c39c",
+    "6": "6c7c842954b06c8b54bc3a784de7aa3be67b1b7863c9e27d0b0f6fb913eb8bec",
+    "7": "0921c14a9cda0a9764442c6ef9d27568a9bcf449f1bca258a91e21c9da749ba9",
+    "8": "0fb0b212f307655dd8a79a764ca8173ef3fb6057fe18a97c767069f89d435ea3",
+    "9": "6619b8f5d303ef7d17b38d1fb8bfa65273cce19579329106aba17cdb7f9c2db3",
+    "10": "ba40666ad6011d37488046f3c7ff2ec77ebfb384916fc8feaa1160d0410376bf",
+    "11": "33116ec3691703e31e0b3fa5ae3be92c301937f1d0ed876531a6ee61d6abbce2",
+    "12": "76f8b3754072977a2eb115f24d6b3e0d9f2107807dfa643c12d98b422f43db0a",
+    "13": "4605a1f0450c1dfb435ca739edd849ce973e8cc7a547c17caf4affb761add78e",
+    "14": "30e5f0db4768e3ea0d0cd2aad98db1b8455f0c3d24d9fa66d3a5ebe9b702cb0c",
+    "15": "efe71d050fb0a1d4f2a48ef3eae166e66e7fbfbb5fda31d937c822eeac4fe001",
+    "16": "75456797f7e79b1915d945c91be51fbc6aedd0259b2698815083ed1569ab3cea",
+    "17": "cc4a90cd2980ae9492789fffc0ee95c979784318cfbf1ea63cbc7287fc0ee39c",
+    "18": "bc119506e8063c6d4f8d9f9da37935c6aab78ca06329347bfe91b06928dedf68",
+    "19": "511773db8fa0677a0183b2bf3150a0177cf34d84902f066c09988d47efacca86"
+  },
+  "prompt_exact": 1000,
+  "feedback_checked": 1000,
+  "parser_checked": 1000,
+  "strict": 970,
+  "fallback_random": 30,
+  "fallback_rows": [
+    [
+      0,
+      40,
+      1
+    ],
+    [
+      0,
+      42,
+      0
+    ],
+    [
+      0,
+      49,
+      1
+    ],
+    [
+      1,
+      37,
+      0
+    ],
+    [
+      3,
+      18,
+      0
+    ],
+    [
+      4,
+      17,
+      1
+    ],
+    [
+      4,
+      20,
+      0
+    ],
+    [
+      4,
+      28,
+      1
+    ],
+    [
+      5,
+      35,
+      0
+    ],
+    [
+      6,
+      5,
+      1
+    ],
+    [
+      6,
+      30,
+      1
+    ],
+    [
+      8,
+      14,
+      0
+    ],
+    [
+      8,
+      18,
+      1
+    ],
+    [
+      8,
+      44,
+      0
+    ],
+    [
+      10,
+      4,
+      0
+    ],
+    [
+      10,
+      28,
+      1
+    ],
+    [
+      14,
+      11,
+      0
+    ],
+    [
+      14,
+      42,
+      0
+    ],
+    [
+      15,
+      10,
+      1
+    ],
+    [
+      16,
+      48,
+      1
+    ],
+    [
+      18,
+      29,
+      0
+    ],
+    [
+      18,
+      33,
+      0
+    ],
+    [
+      18,
+      38,
+      0
+    ],
+    [
+      19,
+      14,
+      0
+    ],
+    [
+      19,
+      20,
+      1
+    ],
+    [
+      19,
+      24,
+      1
+    ],
+    [
+      19,
+      32,
+      1
+    ],
+    [
+      19,
+      35,
+      1
+    ],
+    [
+      19,
+      38,
+      1
+    ],
+    [
+      19,
+      41,
+      0
+    ]
+  ],
+  "mean_correct_action_fraction": 0.482,
+  "ci95_correct_action_fraction": [
+    0.455,
+    0.508
+  ],
+  "mean_final_payoff": -1.8,
+  "ci95_match_bootstrap_payoff": [
+    -4.5,
+    0.8
+  ],
+  "match_scores": [
+    -14,
+    6,
+    -4,
+    -12,
+    -10,
+    2,
+    -6,
+    -4,
+    -4,
+    -2,
+    2,
+    -2,
+    6,
+    6,
+    2,
+    2,
+    8,
+    -2,
+    -2,
+    -8
+  ],
+  "csv_sha256": "176f17db80c238f161b06f195d17496490206be7553893b01fd11aa14dd0b860",
+  "model_revision_runtime_reported": "3548789868c5356dbf307c98e6f609007b82b3eb",
+  "source_sha256": {
+    "run_llm_vs_agent_vllm.py": "13df250f90435594c6dfead54c7d0bde21e8c30e10d3343e7e87bee60f6839cc",
+    "llm_tomsup_agent_vllm.py": "c7672847ae420f6062a3c9c0f1ca5b9f5a48b03f3f4f6d08960365557a26aee2",
+    "model_output_parse.py": "c9082f54ac16a93a61cde5e0f4c3117978eb71eb74119a96c083bd5bfd6d99ac",
+    "vllm_batcher.py": "79be162257dbd51295b77590fa85b1f83b4e344e92596f5c2db193ab531bb134"
+  },
+  "limitations": [
+    "Thirty final-channel-truncated completions used frozen random fallback; all rows retained.",
+    "Generation finish reasons and exact token counts were not exported.",
+    "Model revision is runtime-reported; model tensors were not independently hashed.",
+    "Final-round agent-local feedback is blank by design; authoritative payoff is present.",
+    "This is one hider/ToM2 cell and does not establish mentalizing mechanism or opponent generalization."
+  ]
+}

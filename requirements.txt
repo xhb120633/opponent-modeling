@@ -1,0 +1,4 @@
+# Tested statistical reanalysis environment (Python 3.12.4).
+# Install with: python -m pip install -r requirements.txt
+# This does not install models, GPU drivers, or the historical inference stack.
+numpy==1.26.4

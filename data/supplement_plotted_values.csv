@@ -1,0 +1,337 @@
+figure,role,model,opponent,value,source,audit_tier,ci_low,ci_high,fallback,structured_payoff,baseline_payoff,baseline_source,status
+S1,seeker,Qwen2.5 0.5B,RB,-18.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 0.5B,QL,4.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 0.5B,WSLS,-46.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 0.5B,ToM0,-44.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 0.5B,ToM1,-42.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 0.5B,ToM2,-37.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,RB,-6.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,QL,2.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,WSLS,-8.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,ToM0,-14.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,ToM1,-6.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 1.5B,ToM2,-8.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,RB,-3.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,QL,0.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,WSLS,34.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,ToM0,2.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,ToM1,-2.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 3B,ToM2,-4.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,RB,11.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,QL,0.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,WSLS,19.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,ToM0,3.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,ToM1,-9.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 7B,ToM2,-13.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,RB,4.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,QL,3.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,WSLS,7.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,ToM0,4.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,ToM1,-14.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 14B,ToM2,-12.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,RB,3.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,QL,-1.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,WSLS,47.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,ToM0,12.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,ToM1,2.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 32B,ToM2,-16.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,RB,15.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,QL,3.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,WSLS,15.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM0,3.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM1,-10.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM2,-13.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,RB,15.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,QL,3.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,WSLS,15.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM0,3.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM1,-10.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen2.5 72B,ToM2,-13.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,RB,8.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,QL,-0.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,WSLS,12.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,ToM0,1.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,ToM1,0.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Qwen3.6 35B-A3B,ToM2,-2.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,RB,10.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,QL,3.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,WSLS,35.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,ToM0,7.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,ToM1,-4.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Llama 3.3 70B,ToM2,-14.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,RB,7.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,QL,3.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,WSLS,35.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,ToM0,3.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,ToM1,-5.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 31B,ToM2,-13.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,RB,17.6,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,QL,-5.3,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,WSLS,0.8,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,ToM0,-0.5,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,ToM1,-8.1,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,seeker,GPT-5.4,ToM2,-6.6,experiments_point_diagnostic/gpt54_structured_live_20260921/audit.json,retained historical/current input,,,,,,,reported
+S1,seeker,Gemma 4 thinking,RB,7.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,4.0,10.2,,,,,reported
+S1,seeker,Gemma 4 thinking,QL,0.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-3.1,3.4,,,,,reported
+S1,seeker,Gemma 4 thinking,WSLS,35.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,28.6,42.2,,,,,reported
+S1,seeker,Gemma 4 thinking,ToM0,7.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,4.8,10.2,,,,,reported
+S1,seeker,Gemma 4 thinking,ToM1,-6.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-9.7,-2.6,,,,,reported
+S1,seeker,Gemma 4 thinking,ToM2,-12.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-15.9,-9.2,,,,,reported
+S1,seeker,GPT-OSS low,RB,13.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,9.0,17.2,,,,,reported
+S1,seeker,GPT-OSS low,QL,3.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-0.3,7.0,,,,,reported
+S1,seeker,GPT-OSS low,WSLS,16.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,13.7,18.8,,,,,reported
+S1,seeker,GPT-OSS low,ToM0,-0.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-2.202499999999998,1.1,,,,,reported
+S1,seeker,GPT-OSS low,ToM1,-4.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-6.6,-1.5,,,,,reported
+S1,seeker,GPT-OSS low,ToM2,-1.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-4.9,1.2,,,,,reported
+S1,seeker,GPT-OSS medium,RB,11.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,8.3,15.1,,,,,reported
+S1,seeker,GPT-OSS medium,QL,-1.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-3.8,1.0,,,,,reported
+S1,seeker,GPT-OSS medium,WSLS,23.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,21.9,25.7,,,,,reported
+S1,seeker,GPT-OSS medium,ToM0,1.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-0.4,3.5,,,,,reported
+S1,seeker,GPT-OSS medium,ToM1,1.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-2.1,4.4,,,,,reported
+S1,seeker,GPT-OSS medium,ToM2,-1.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-4.1,1.1,,,,,reported
+S1,seeker,GPT-OSS high,RB,14.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,12.0,16.9,,,,,reported
+S1,seeker,GPT-OSS high,QL,1.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-2.5,5.4,,,,,reported
+S1,seeker,GPT-OSS high,WSLS,24.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,22.2,26.8,,,,,reported
+S1,seeker,GPT-OSS high,ToM0,0.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-1.8,2.5,,,,,reported
+S1,seeker,GPT-OSS high,ToM1,0.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-2.0,2.3,,,,,reported
+S1,seeker,GPT-OSS high,ToM2,-2.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,historical baseline,-5.1,0.0,,,,,reported
+S1,hider,Qwen2.5 0.5B,RB,16.7,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 0.5B,QL,3.8,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 0.5B,WSLS,-47.3,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 0.5B,ToM0,-46.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 0.5B,ToM1,-44.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 0.5B,ToM2,-38.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,RB,8.9,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,QL,5.7,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,WSLS,-16.4,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,ToM0,-16.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,ToM1,-5.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 1.5B,ToM2,-9.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,RB,-2.5,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,QL,0.1,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,WSLS,39.5,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,ToM0,5.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,ToM1,-3.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 3B,ToM2,-11.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,RB,3.7,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,QL,-0.2,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,WSLS,19.7,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,ToM0,6.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,ToM1,-10.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 7B,ToM2,-14.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,RB,8.0,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,QL,1.9,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,WSLS,11.6,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,ToM0,5.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,ToM1,-17.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 14B,ToM2,-20.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,RB,1.8,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,QL,-2.4,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,WSLS,48.3,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,ToM0,9.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,ToM1,1.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 32B,ToM2,-17.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,RB,-1.1,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,QL,0.7,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,WSLS,48.0,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM0,10.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM1,-6.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM2,-16.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,RB,-1.1,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,QL,0.7,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,WSLS,48.0,experiments_point_diagnostic/standard_first6_20260922/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM0,10.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM1,-6.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen2.5 72B,ToM2,-16.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,RB,-1.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,QL,0.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,WSLS,13.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,ToM0,3.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,ToM1,-4.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Qwen3.6 35B-A3B,ToM2,-5.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,RB,3.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,QL,0.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,WSLS,45.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,ToM0,11.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,ToM1,-3.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Llama 3.3 70B,ToM2,-14.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,RB,0.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,QL,1.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,WSLS,31.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,ToM0,12.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,ToM1,-6.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 31B,ToM2,-18.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,RB,1.8,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,QL,1.9,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,WSLS,39.4,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,ToM0,8.3,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,ToM1,-7.5,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained historical/current input,,,,,,,reported
+S1,hider,GPT-5.4,ToM2,-11.8,experiments_point_diagnostic/gpt54_hider_structured_20260921/audit.json,retained historical/current input,,,,,,,reported
+S1,hider,Gemma 4 thinking,RB,9.4,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_6.json,full 20261009 semantic audit,6.2,12.4,3.0,,,,reported
+S1,hider,Gemma 4 thinking,QL,0.2,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_7.json,full 20261009 semantic audit,-2.4,2.8,13.0,,,,reported
+S1,hider,Gemma 4 thinking,WSLS,43.9,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_8.json,full 20261009 semantic audit,42.3,45.3,1.0,,,,reported
+S1,hider,Gemma 4 thinking,ToM0,5.2,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_9.json,full 20261009 semantic audit,2.0,8.2,17.0,,,,reported
+S1,hider,Gemma 4 thinking,ToM1,2.9,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_10.json,full 20261009 semantic audit,-0.9,6.7,20.0,,,,reported
+S1,hider,Gemma 4 thinking,ToM2,-1.8,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_11.json,full 20261009 semantic audit,-4.5,0.8,30.0,,,,reported
+S1,hider,GPT-OSS low,RB,15.4,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_12.json,full 20261009 semantic audit,11.5,19.0,1.0,,,,reported
+S1,hider,GPT-OSS low,QL,4.6,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_13.json,full 20261009 semantic audit,1.2,8.2,1.0,,,,reported
+S1,hider,GPT-OSS low,WSLS,28.6,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_14.json,full 20261009 semantic audit,25.2,31.9,0.0,,,,reported
+S1,hider,GPT-OSS low,ToM0,1.5,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_15.json,full 20261009 semantic audit,-0.8,4.0,5.0,,,,reported
+S1,hider,GPT-OSS low,ToM1,-6.0,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_16.json,full 20261009 semantic audit,-8.2,-3.7,3.0,,,,reported
+S1,hider,GPT-OSS low,ToM2,-1.6000000000000014,experiments_point_diagnostic/oss_hider_low_20260923/audit.json,audited ToM2 replacement,-4.299999999999998,1.200000000000001,,,,,reported
+S1,hider,GPT-OSS medium,RB,13.2,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_17.json,full 20261009 semantic audit,9.6,16.6,6.0,,,,reported
+S1,hider,GPT-OSS medium,QL,3.1,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_18.json,full 20261009 semantic audit,0.5,5.6,5.0,,,,reported
+S1,hider,GPT-OSS medium,WSLS,33.9,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_19.json,full 20261009 semantic audit,32.2,35.5,0.0,,,,reported
+S1,hider,GPT-OSS medium,ToM0,-0.3,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_20.json,full 20261009 semantic audit,-2.7,2.1,4.0,,,,reported
+S1,hider,GPT-OSS medium,ToM1,-4.3,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_21.json,full 20261009 semantic audit,-7.5,-0.8,9.0,,,,reported
+S1,hider,GPT-OSS medium,ToM2,-3.0000000000000027,experiments_point_diagnostic/oss_hider_medium_20260925/audit.json,audited ToM2 replacement,-5.3999999999999995,-0.5000000000000004,,,,,reported
+S1,hider,GPT-OSS high,RB,14.2,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_22.json,full 20261009 semantic audit,11.3,16.9,1.0,,,,reported
+S1,hider,GPT-OSS high,QL,5.5,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_23.json,full 20261009 semantic audit,3.1,7.9,7.0,,,,reported
+S1,hider,GPT-OSS high,WSLS,30.4,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_24.json,full 20261009 semantic audit,27.8,32.9,0.0,,,,reported
+S1,hider,GPT-OSS high,ToM0,3.6,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_25.json,full 20261009 semantic audit,0.9,6.4,21.0,,,,reported
+S1,hider,GPT-OSS high,ToM1,-0.6,experiments_point_diagnostic\supplement_audit_20261009\reports\original_reasoning_26.json,full 20261009 semantic audit,-3.4,2.3,24.0,,,,reported
+S1,hider,GPT-OSS high,ToM2,-2.300000000000002,experiments_point_diagnostic/oss_hider_high_20260924/audit.json,audited ToM2 replacement,-5.8,1.6000000000000014,,,,,reported
+S2,seeker,Qwen2.5 0.5B,RB,3.6999999999999993,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_0.json,new structured cell; unpaired historical baseline,,,138.0,-14.7,-18.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 0.5B,QL,-4.0,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_1.json,new structured cell; unpaired historical baseline,,,178.0,0.0,4.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 0.5B,WSLS,1.7000000000000028,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_2.json,new structured cell; unpaired historical baseline,,,50.0,-44.4,-46.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 0.5B,ToM0,2.299999999999997,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_3.json,new structured cell; unpaired historical baseline,,,82.0,-42.6,-44.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 0.5B,ToM1,5.5,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_4.json,new structured cell; unpaired historical baseline,,,132.0,-37.2,-42.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 0.5B,ToM2,3.1000000000000014,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_5.json,new structured cell; unpaired historical baseline,,,123.0,-34.3,-37.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,RB,18.1,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_12.json,new structured cell; unpaired historical baseline,,,0.0,11.8,-6.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,QL,-7.9,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_13.json,new structured cell; unpaired historical baseline,,,0.0,-5.5,2.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,WSLS,-19.400000000000002,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_14.json,new structured cell; unpaired historical baseline,,,0.0,-27.6,-8.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,ToM0,-17.9,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_15.json,new structured cell; unpaired historical baseline,,,0.0,-32.5,-14.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,ToM1,-27.5,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_16.json,new structured cell; unpaired historical baseline,,,0.0,-33.5,-6.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 1.5B,ToM2,-20.799999999999997,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_17.json,new structured cell; unpaired historical baseline,,,0.0,-29.4,-8.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 3B,RB,-2.5000000000000004,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-8.2,2.9,,,,,reported
+S2,seeker,Qwen2.5 3B,QL,4.7,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,0.3000000000000002,9.1,,,,,reported
+S2,seeker,Qwen2.5 3B,WSLS,-59.1,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-63.1,-54.8,,,,,reported
+S2,seeker,Qwen2.5 3B,ToM0,-14.4,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 3B,ToM1,-1.4,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 3B,ToM2,-3.1999999999999997,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 7B,RB,-6.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_0.json,new structured cell; unpaired historical baseline,,,0.0,5.2,11.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 7B,QL,-4.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_1.json,new structured cell; unpaired historical baseline,,,0.0,-3.5,0.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 7B,WSLS,-2.0,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_2.json,new structured cell; unpaired historical baseline,,,0.0,17.9,19.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 7B,ToM0,-23.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_3.json,new structured cell; unpaired historical baseline,,,0.0,-20.2,3.0,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 7B,ToM1,-3.1000000000000014,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_4.json,new structured cell; unpaired historical baseline,,,0.0,-12.8,-9.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 7B,ToM2,-0.8000000000000007,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_5.json,new structured cell; unpaired historical baseline,,,0.0,-14.4,-13.6,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,RB,-0.20000000000000018,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_12.json,new structured cell; unpaired historical baseline,,,0.0,4.7,4.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,QL,-0.6999999999999997,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_13.json,new structured cell; unpaired historical baseline,,,0.0,3.2,3.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,WSLS,2.5999999999999996,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_14.json,new structured cell; unpaired historical baseline,,,0.0,9.7,7.1,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,ToM0,-4.800000000000001,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_15.json,new structured cell; unpaired historical baseline,,,0.0,-0.4,4.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,ToM1,16.400000000000002,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_16.json,new structured cell; unpaired historical baseline,,,0.0,2.1,-14.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 14B,ToM2,6.6000000000000005,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_17.json,new structured cell; unpaired historical baseline,,,0.0,-5.7,-12.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,seeker,Qwen2.5 32B,RB,-1.1,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,retained audited contrast,-4.5,2.3999999999999995,,,,,reported
+S2,seeker,Qwen2.5 32B,QL,2.3,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,retained audited contrast,-1.4,6.0,,,,,reported
+S2,seeker,Qwen2.5 32B,WSLS,-26.800000000000004,experiments_point_diagnostic/standard_cells6_8_20260922/audit.json,retained audited contrast,-30.4,-22.9,,,,,reported
+S2,seeker,Qwen2.5 32B,ToM0,-7.2,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 32B,ToM1,0.0,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 32B,ToM2,14.8,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,RB,-4.1,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,retained audited contrast,-8.9,0.8000000000000007,,,,,reported
+S2,seeker,Qwen2.5 72B,QL,3.1,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,retained audited contrast,-2.1,8.4,,,,,reported
+S2,seeker,Qwen2.5 72B,WSLS,-0.5,experiments_point_diagnostic/standard_cell11_20260922/audit.json,retained audited contrast,-3.1999999999999997,2.1999999999999997,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM0,-0.6000000000000001,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM1,10.5,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM2,8.2,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,RB,-4.1,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,retained audited contrast,-8.9,0.8000000000000007,,,,,reported
+S2,seeker,Qwen2.5 72B,QL,3.1,experiments_point_diagnostic/standard_cells9_10_20260922/audit.json,retained audited contrast,-2.1,8.4,,,,,reported
+S2,seeker,Qwen2.5 72B,WSLS,-0.5,experiments_point_diagnostic/standard_cell11_20260922/audit.json,retained audited contrast,-3.1999999999999997,2.1999999999999997,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM0,-0.6000000000000001,Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM1,10.5,experiments_point_diagnostic/supplement_archive_20260921/ + Hide_and_Seek/Visualization/figures_structured_tom_all/structured_tom_all_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen2.5 72B,ToM2,8.2,Hide_and_Seek/Visualization/figures_structured_tom2/structured_tom2_intervention_summary.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,RB,2.1999999999999997,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-2.8024999999999984,7.2,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,QL,0.5,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-3.7,4.702499999999782,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,WSLS,-3.5,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-11.302499999999998,4.999999999999998,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,ToM0,-11.7,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-16.5,-6.8,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,ToM1,-0.2,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-4.1,3.7,,,,,reported
+S2,seeker,Qwen3.6 35B-A3B,ToM2,2.1,experiments_point_diagnostic/qwen36_runtime_result_20260922/audit.json,retained audited contrast,-1.0,5.4,,,,,reported
+S2,seeker,Llama 3.3 70B,RB,-1.5999999999999996,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-5.9,2.6999999999999997,,,,,reported
+S2,seeker,Llama 3.3 70B,QL,-3.1,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-7.300000000000001,1.0000000000000002,,,,,reported
+S2,seeker,Llama 3.3 70B,WSLS,-21.5,experiments_point_diagnostic/standard_cells12_19_20260922/audit.json,retained audited contrast,-25.500000000000004,-17.49750000000022,,,,,reported
+S2,seeker,Llama 3.3 70B,ToM0,-1.7000000000000002,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,retained audited contrast,-5.699999999999999,2.1,,,,,reported
+S2,seeker,Llama 3.3 70B,ToM1,8.7,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,retained audited contrast,3.7,13.6,,,,,reported
+S2,seeker,Llama 3.3 70B,ToM2,11.9,Hide_and_Seek/Visualization/figures_main_noreasoning_diagnostics/main_noreasoning_tom2_online_structured_summary_compact.csv,retained audited contrast,,,,,,,reported
+S2,seeker,Gemma 4 31B,RB,2.4000000000000004,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,retained audited contrast,-3.5,8.3,,,,,reported
+S2,seeker,Gemma 4 31B,QL,-0.5,experiments_point_diagnostic/standard_cells20_23_20260922/audit.json,retained audited contrast,-4.9,3.7,,,,,reported
+S2,seeker,Gemma 4 31B,WSLS,-3.200000000000003,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,retained audited contrast,-10.299999999999995,4.100000000000001,,,,,reported
+S2,seeker,Gemma 4 31B,ToM0,2.3,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,retained audited contrast,-2.1999999999999997,6.699999999999999,,,,,reported
+S2,seeker,Gemma 4 31B,ToM1,6.5,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,retained audited contrast,2.4000000000000004,10.5,,,,,reported
+S2,seeker,Gemma 4 31B,ToM2,15.1,Hide_and_Seek/Visualization/figures_main_noreasoning_diagnostics/main_noreasoning_tom2_online_structured_summary_compact.csv,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,RB,-6.7,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,QL,4.3,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,WSLS,39.4,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,ToM0,5.0,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,ToM1,8.9,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,seeker,GPT-5.4,ToM2,1.7,experiments_point_diagnostic/gpt54_structured_live_20260921/audit.json,retained audited contrast,,,,,,,reported
+S2,hider,Qwen2.5 0.5B,RB,-5.799999999999999,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_6.json,new structured cell; unpaired historical baseline,,,65.0,10.9,16.7,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 0.5B,QL,1.6000000000000005,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_7.json,new structured cell; unpaired historical baseline,,,86.0,5.4,3.8,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 0.5B,WSLS,13.899999999999999,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_8.json,new structured cell; unpaired historical baseline,,,75.0,-33.4,-47.3,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 0.5B,ToM0,18.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_9.json,new structured cell; unpaired historical baseline,,,55.0,-28.2,-46.4,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 0.5B,ToM1,16.700000000000003,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_10.json,new structured cell; unpaired historical baseline,,,104.0,-27.5,-44.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 0.5B,ToM2,11.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_11.json,new structured cell; unpaired historical baseline,,,96.0,-27.7,-38.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 1.5B,RB,-11.9,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_18.json,new structured cell; unpaired historical baseline,,,0.0,-3.0,8.9,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 1.5B,QL,-11.9,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_19.json,new structured cell; unpaired historical baseline,,,0.0,-6.2,5.7,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 1.5B,WSLS,-23.0,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_20.json,new structured cell; unpaired historical baseline,,,0.0,-39.4,-16.4,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 1.5B,ToM0,-21.000000000000004,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_21.json,new structured cell; unpaired historical baseline,,,0.0,-37.7,-16.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 1.5B,ToM1,-18.1,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_22.json,new structured cell; unpaired historical baseline,,,0.0,-24.0,-5.9,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 1.5B,ToM2,-18.3,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_small_23.json,new structured cell; unpaired historical baseline,,,0.0,-27.6,-9.3,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 3B,RB,11.2,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,7.199999999999999,15.1,,,,,reported
+S2,hider,Qwen2.5 3B,QL,1.6,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-2.6,5.9,,,,,reported
+S2,hider,Qwen2.5 3B,WSLS,-61.2,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-65.0,-57.6,,,,,reported
+S2,hider,Qwen2.5 3B,ToM0,-22.3,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-28.7,-16.099999999999998,,,,,reported
+S2,hider,Qwen2.5 3B,ToM1,-11.4,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-20.5,-2.1999999999999997,,,,,reported
+S2,hider,Qwen2.5 3B,ToM2,0.7999999999999989,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,retained audited contrast,-5.300000000000001,6.999999999999999,,,,,reported
+S2,hider,Qwen2.5 7B,RB,3.3999999999999995,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_6.json,new structured cell; unpaired historical baseline,,,0.0,7.1,3.7,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,reported
+S2,hider,Qwen2.5 7B,QL,3.4000000000000004,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_7.json,new structured cell; unpaired historical baseline,,,0.0,3.2,-0.2,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,reported
+S2,hider,Qwen2.5 7B,WSLS,-18.7,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_8.json,new structured cell; unpaired historical baseline,,,0.0,1.0,19.7,experiments_point_diagnostic/qwen7b_hider_archive_20260922/audit.json,reported
+S2,hider,Qwen2.5 7B,ToM0,-3.9000000000000004,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_9.json,new structured cell; unpaired historical baseline,,,0.0,2.8,6.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 7B,ToM1,-3.0999999999999996,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_10.json,new structured cell; unpaired historical baseline,,,0.0,-13.9,-10.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 7B,ToM2,4.1,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_11.json,new structured cell; unpaired historical baseline,,,0.0,-10.4,-14.5,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 14B,RB,-1.5,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_18.json,new structured cell; unpaired historical baseline,,,0.0,6.5,8.0,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 14B,QL,-4.199999999999999,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_19.json,new structured cell; unpaired historical baseline,,,0.0,-2.3,1.9,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 14B,WSLS,3.4000000000000004,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_20.json,new structured cell; unpaired historical baseline,,,0.0,15.0,11.6,experiments_point_diagnostic/supplement_cachefix_results_20260922/audit_all_small.json,reported
+S2,hider,Qwen2.5 14B,ToM0,-4.8,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_21.json,new structured cell; unpaired historical baseline,,,0.0,0.9,5.7,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 14B,ToM1,21.7,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_22.json,new structured cell; unpaired historical baseline,,,0.0,3.9,-17.8,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 14B,ToM2,19.2,experiments_point_diagnostic\supplement_audit_20261009\reports\scaling_large_23.json,new structured cell; unpaired historical baseline,,,0.0,-1.0,-20.2,Hide_and_Seek/Visualization/figures_dynamic_tom_summary/unified_uncertainty_summary.csv,reported
+S2,hider,Qwen2.5 32B,RB,1.4,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,retained audited contrast,-2.8,5.4,,,,,reported
+S2,hider,Qwen2.5 32B,QL,3.2,experiments_point_diagnostic/standard_cells24_28_20260922/audit.json,retained audited contrast,-1.1,7.6,,,,,reported
+S2,hider,Qwen2.5 32B,WSLS,-31.9,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,-34.0,-29.6,,,,,reported
+S2,hider,Qwen2.5 32B,ToM0,-4.9,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,-9.5,-0.4000000000000003,,,,,reported
+S2,hider,Qwen2.5 32B,ToM1,-14.4,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,-21.4025,-7.1000000000000005,,,,,reported
+S2,hider,Qwen2.5 32B,ToM2,5.099999999999998,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,1.0,9.3,,,,,reported
+S2,hider,Qwen2.5 72B,RB,6.800000000000001,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,2.4,11.2,,,,,reported
+S2,hider,Qwen2.5 72B,QL,2.3,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,-2.1,6.800000000000001,,,,,reported
+S2,hider,Qwen2.5 72B,WSLS,-34.9,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-38.1,-31.9,,,,,reported
+S2,hider,Qwen2.5 72B,ToM0,-10.6,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-14.3,-7.0,,,,,reported
+S2,hider,Qwen2.5 72B,ToM1,7.199999999999999,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-0.302499999999998,15.1,,,,,reported
+S2,hider,Qwen2.5 72B,ToM2,14.8,experiments_point_diagnostic/fig2c_hider_task0_20260922/audit.json,retained audited contrast,9.0,20.0,,,,,reported
+S2,hider,Qwen2.5 72B,RB,6.800000000000001,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,2.4,11.2,,,,,reported
+S2,hider,Qwen2.5 72B,QL,2.3,experiments_point_diagnostic/standard_cells29_34_20260922/audit.json,retained audited contrast,-2.1,6.800000000000001,,,,,reported
+S2,hider,Qwen2.5 72B,WSLS,-34.9,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-38.1,-31.9,,,,,reported
+S2,hider,Qwen2.5 72B,ToM0,-10.6,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-14.3,-7.0,,,,,reported
+S2,hider,Qwen2.5 72B,ToM1,7.199999999999999,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,-0.302499999999998,15.1,,,,,reported
+S2,hider,Qwen2.5 72B,ToM2,14.8,experiments_point_diagnostic/fig2c_hider_task0_20260922/audit.json,retained audited contrast,9.0,20.0,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,RB,5.9,experiments_point_diagnostic/standard_cells35_38_20260922/audit.json,retained audited contrast,1.3,10.8,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,QL,0.0,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,retained audited contrast,-3.3,3.5,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,WSLS,10.9,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,retained audited contrast,6.800000000000001,14.9,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,ToM0,2.8,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,retained audited contrast,-0.9000000000000004,6.5,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,ToM1,0.5,experiments_point_diagnostic/standard_cells39_42_20260922/audit.json,retained audited contrast,-4.7,5.7,,,,,reported
+S2,hider,Qwen3.6 35B-A3B,ToM2,-1.0,experiments_point_diagnostic/fig2c_hider_tasks1_2_20260922/audit.json,retained audited contrast,-6.9,5.202499999999783,,,,,reported
+S2,hider,Llama 3.3 70B,RB,6.500000000000001,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,retained audited contrast,1.3999999999999997,11.6,,,,,reported
+S2,hider,Llama 3.3 70B,QL,2.4,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,retained audited contrast,-1.3,6.1,,,,,reported
+S2,hider,Llama 3.3 70B,WSLS,-24.8,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,retained audited contrast,-26.0,-23.8,,,,,reported
+S2,hider,Llama 3.3 70B,ToM0,-4.699999999999999,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,-8.5,-0.9000000000000004,,,,,reported
+S2,hider,Llama 3.3 70B,ToM1,-0.1,experiments_point_diagnostic/standard_cells43_45_47_20260922/audit.json,retained audited contrast,-8.8,8.6,,,,,reported
+S2,hider,Llama 3.3 70B,ToM2,10.2,experiments_point_diagnostic/fig2c_hider_tasks1_2_20260922/audit.json,retained audited contrast,4.5,15.8,,,,,reported
+S2,hider,Gemma 4 31B,RB,5.3,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,0.8999999999999999,9.7,,,,,reported
+S2,hider,Gemma 4 31B,QL,-0.3999999999999999,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,-4.7,3.7,,,,,reported
+S2,hider,Gemma 4 31B,WSLS,12.3,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,2.299999999999997,23.1,,,,,reported
+S2,hider,Gemma 4 31B,ToM0,-7.0,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,-11.0,-3.1999999999999997,,,,,reported
+S2,hider,Gemma 4 31B,ToM1,10.6,experiments_point_diagnostic/standard_final6_20260922/audit.json,retained audited contrast,3.5,17.6,,,,,reported
+S2,hider,Gemma 4 31B,ToM2,12.8,experiments_point_diagnostic/fig2c_hider_task3_20260922/audit.json,retained audited contrast,8.2,17.4,,,,,reported
+S2,hider,GPT-5.4,RB,8.7,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,hider,GPT-5.4,QL,3.8,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,hider,GPT-5.4,WSLS,-30.3,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,hider,GPT-5.4,ToM0,-7.9,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,hider,GPT-5.4,ToM1,5.9,experiments_point_diagnostic/gpt54_supplement_full_20260921/audit_merged.json,retained audited contrast,,,,,,,reported
+S2,hider,GPT-5.4,ToM2,9.0,experiments_point_diagnostic/gpt54_hider_structured_20260921/audit.json,retained audited contrast,,,,,,,reported
