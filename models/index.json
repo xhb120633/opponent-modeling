@@ -1,0 +1,146 @@
+[
+  {
+    "name": "behavioral_action_2400",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "eda3df610a51d485d0feb40f8994eca51cc6a63a481d702a6ab55dd2bc301a49",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "behavioral_structured_300",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "e58c754e9068b50337ffbc8a3b390d95cb208d91fbc333bb1648815dd8688ed4",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "five_field_base_200",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "43b0805ad6aeba42cfb671e4ff4fc5340b2271649ca43e6cea5c22563f57bb97",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "five_field_parent_100",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "8f91c5c3ca3b160ff4fdd72bb1f0b1a1f51f5e79576d56a35c0b1e686045d707",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "probability_only_500",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "fa6d83dba94e7142455d232b32a262723a51d73308d7dc6d8e1f432be53e78c7",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "state_probability_selected",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "bc1b644da15b7b564e803e3b74f292cc0f636384799be8063ebadf28da381286",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "known_200",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "ba4b3296d4151b624b975a4d4bfed5fe5517b2d12deb06a3cbe629d0e519c3a7",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "mixed_200",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 161533192,
+    "sha256": "8cef54c70dd054fcbf3175f47015ffbd509875755ecae49bc278be26e2cac2a2",
+    "historical_hash_match": true,
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "offline_grpo_100",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "5a36b7516ed1519bef389c6e7a470bcb047b16ed86834a2030ea4932b242f476",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "offline_grpo_300",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "44023db853a151e16b7b9c14fa6e75d55940af5f745902a21728851933bbe7a5",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "offline_grpo_600",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "4172cd6b9e67d8fc26b76450a5e636b405e89ab0f23111eaa2c4473630c2395a",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k4_75",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "b0dd73440ccb4c9979a3caddd38fa3716d4b4b8c998ab2ad4d83c80d007f5ad8",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k4_150",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "73c84a59a940d13061cc4e1dcdd22afa84f58412dcd2b0b60f7f3a914709722c",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k4_225",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "64e5f2615173a50ad8f0f2cc89ee9c2142aad99eab9794777cd640f01bc9495e",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k16_75",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "c0787c0ccbe4f72dd212675836dec828cb3f7535ab8a2a6d00f66179113464e3",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k16_150",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "559720521a88d6430d512dedbb86effa13d1c81895a727c60a70e5483183cf7d",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "iterative_k16_225",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "a47bf77be5782a11ba704f18d02081e2516a950583410f18f81761321bd5370f",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  },
+  {
+    "name": "recursive_v3_25",
+    "base_model": "Qwen/Qwen2.5-7B-Instruct",
+    "source_bytes": 80792880,
+    "sha256": "aa3876d8a1f896f4b883a95cca0dbcd8aaa05dc13f91487f5e5abd4bf2183fbd",
+    "historical_hash_match": "historical launcher path; current file hash only",
+    "model_load": "NOT_TESTED"
+  }
+]
